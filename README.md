@@ -32,7 +32,7 @@
 ### 📫 &nbsp; How to reach me:
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ulises-scardino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lautaro-vollmer/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ulises-scardino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/lautaro-vollmer/](https://www.linkedin.com/in/lautaro-vollmer/)" height="30" width="40" /></a>
 <a href="mailto:lautarovollmer0@gmail.com"><img align="center" height="40 width="40" src="https://img.icons8.com/color/48/000000/gmail--v2.png"/>
 </p>
 
